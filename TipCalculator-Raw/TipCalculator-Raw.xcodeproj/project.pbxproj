@@ -10,7 +10,7 @@
 		269DEBEF1DABDB6D00D4322B /* Interactive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 269DEBEE1DABDB6D00D4322B /* Interactive.swift */; };
 		269DEBF11DABE59500D4322B /* io.swift in Sources */ = {isa = PBXBuildFile; fileRef = 269DEBF01DABE59500D4322B /* io.swift */; };
 		269DEBF31DABE64200D4322B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 269DEBF21DABE64200D4322B /* main.swift */; };
-		269DEBF51DABEE2100D4322B /* main.main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 269DEBF41DABEE2100D4322B /* main.main.swift */; };
+		269DEBF71DABEF6700D4322B /* tipCalc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 269DEBF61DABEF6700D4322B /* tipCalc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,7 +30,7 @@
 		269DEBEE1DABDB6D00D4322B /* Interactive.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Interactive.swift; sourceTree = "<group>"; };
 		269DEBF01DABE59500D4322B /* io.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = io.swift; sourceTree = "<group>"; };
 		269DEBF21DABE64200D4322B /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		269DEBF41DABEE2100D4322B /* main.main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.main.swift; sourceTree = "<group>"; };
+		269DEBF61DABEF6700D4322B /* tipCalc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tipCalc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,7 @@
 				269DEBEE1DABDB6D00D4322B /* Interactive.swift */,
 				269DEBF01DABE59500D4322B /* io.swift */,
 				269DEBF21DABE64200D4322B /* main.swift */,
-				269DEBF41DABEE2100D4322B /* main.main.swift */,
+				269DEBF61DABEF6700D4322B /* tipCalc.swift */,
 			);
 			path = "TipCalculator-Raw";
 			sourceTree = "<group>";
@@ -130,9 +130,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				269DEBF71DABEF6700D4322B /* tipCalc.swift in Sources */,
 				269DEBEF1DABDB6D00D4322B /* Interactive.swift in Sources */,
 				269DEBF11DABE59500D4322B /* io.swift in Sources */,
-				269DEBF51DABEE2100D4322B /* main.main.swift in Sources */,
 				269DEBF31DABE64200D4322B /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -18,6 +18,7 @@ class Interactive {
     private var currentInput: String = "q"
     private var io = Io()
     
+    
     func go() {
         while !done {
             
