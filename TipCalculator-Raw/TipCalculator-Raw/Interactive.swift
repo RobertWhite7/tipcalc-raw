@@ -6,7 +6,9 @@
 //  Copyright © 2016 Teky. All rights reserved.
 //
 
-import Foundation
+
+
+// Run in interactive mode
 
 
 
@@ -36,7 +38,3 @@ class Interactive {
         return
     }
 }
-let interactive = Interactive()
-
-// Run in interactive mode
-
