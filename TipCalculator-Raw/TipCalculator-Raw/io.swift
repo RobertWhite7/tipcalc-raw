@@ -22,7 +22,7 @@ class Io {
         
     }
     func writeMessage(_ message: String){
-        print("\(message)/n")
+        print("\(message)/")
     }
     
 }
